@@ -1,0 +1,13 @@
+{
+  "authority": "webx.hotstar.com",
+  "accept": "application/json, text/plain, */*",
+  "accept-language": "eng",
+  "cache-control": "no-cache",
+  "hotstarauth": "st=1668236089~exp=1668242089~acl=/*~hmac=ff38e75337d7970078b99ac1a1b4d60562ed5b1265cc77b880b2b9e27450da0f",
+  "pragma": "no-cache",
+  "referer": "https://webx.hotstar.com/ph/home",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",
+  "x-country-code": "ph",
+  "x-hs-accept-language": "eng",
+  "x-hs-platform": "web"
+}
